@@ -1,0 +1,28 @@
+{
+  "name": "cotton-algorithm",
+  "version": "1.0.0",
+  "description": "企业高频算法题库题解",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitest -u",
+    "dev:ui": "vitest --ui --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGAMERyu/cotton-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGAMERyu/cotton-algorithm/issues"
+  },
+  "homepage": "https://github.com/SGAMERyu/cotton-algorithm#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "esno": "^0.14.1"
+  },
+  "devDependencies": {
+    "@vitest/ui": "^0.5.9",
+    "vitest": "^0.5.5"
+  }
+}
